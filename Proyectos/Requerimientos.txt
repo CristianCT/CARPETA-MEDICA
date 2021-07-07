@@ -1,0 +1,5 @@
+Para la ejecucion del proyecto, su computadora debe cumplir con unos requisitos minimos
+	- Node.JS: Para ejecutar el servidor.
+	- MongoDB(opcional): Para usar una base de datos local
+
+Para que la aplicacion movil pueda ejecutarse correctamente en su dispositivo, debe conceder permisos de almacenamiento

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CARPETA MEDICA</string>
+    <string name="app_name1">Carpeta Medica</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">INGRESAR</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"¡Bienvenido!"</string>
+    <string name="invalid_username">Usuario invalido</string>
+    <string name="invalid_password">La contraseña debe contener mas de 5 caracteres</string>
+    <string name="login_failed">"Inicio fallido"</string>
+    <string name="iniciar_sesion">"Iniciar sesión"</string>
+    <string name="registrarse">"Registrarse"</string>
+    <string name="olvido_password">¿Olvidaste tu contraseña?</string>
+    <string name="copyright">©Carpeta Medica V 1.0</string>
+    <string name="udc">Universidad de Cartagena</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_profile_usuario">CARPETA MEDICA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_importantes">Importantes</string>
+    <string name="menu_newdoc">Nuevo documento</string>
+    <string name="menu_compartir">Compartir</string>
+    <string name="menu_papelera">Papelera</string>
+    <string name="menu_contact">Contacto</string>
+    <string name="menu_config">Configuracion</string>
+    <string name="menu_exit">Salir</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
